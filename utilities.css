@@ -1,0 +1,40 @@
+.dflex{
+    display: flex;
+   
+    
+}
+.text-success{
+    color: green;
+}
+.btn{
+    text-decoration: none;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.btn-success{
+    background-color: green;
+    color: white;
+}
+.icon-success{
+    background-color: green;
+    padding: 15px;
+    border-radius: 50%;
+    color: whitesmoke;
+}
+.text-muted{
+    color: #3c4044;
+}
+.text-primary{
+    color: #6264cb;
+}
+.bg-light{
+    background-color: aliceblue;
+    color: #3c4044;
+}
+.row-reverse{
+    flex-direction: row-reverse;
+}
+.bg-dark{
+    background-color: #3c4044;
+}
